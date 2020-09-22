@@ -1,6 +1,5 @@
 using System;
 using System.Linq;
-using System.Collections.Generic;
 namespace Palindromes
 {
   public class PalChecker
@@ -30,10 +29,20 @@ namespace Palindromes
     public bool Palindro(string input)
     {
       char[] array = input.ToLower().ToCharArray();
-      char[] revArray = array;
-      Array.Reverse(revArray);
+      char[] revArray = new char[array.Length];
+      Array.Reverse(revArray); // REPLACE???
       return array.SequenceEqual(revArray);
     }
-  }
 
+    public bool Palindro2(string input)
+    {      
+      char[] array = input.ToLower().ToCharArray();      
+      string revString = "";
+      for (int i = array.Length-1; i>=0; i--)
+      {        
+        revString += array[i].ToString();
+      }      
+      return (input.ToLower() == revString);
+    }    
+  }  
 }
