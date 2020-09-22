@@ -1,0 +1,17 @@
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.csprojAssemblyReference.cache
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.AssemblyInfoInputs.cache
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.AssemblyInfo.cs
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.deps.json
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.runtimeconfig.json
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.runtimeconfig.dev.json
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.pdb
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.pdb
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.csproj.CopyComplete
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.pdb

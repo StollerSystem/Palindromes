@@ -1,0 +1,9 @@
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.deps.json
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.pdb
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.csprojAssemblyReference.cache
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.AssemblyInfoInputs.cache
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.AssemblyInfo.cs
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Palindromes.Solution\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.pdb
