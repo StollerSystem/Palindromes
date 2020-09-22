@@ -42,5 +42,14 @@ namespace Palindromes.Tests
       Assert.AreEqual(true,testPalChecker.CompareArrays(array, revArray));
     }
 
+    [TestMethod]
+    public void Palindro_WillLowercaseAndChangeArray_CharArray()
+    {
+      PalChecker testPalChecker = new PalChecker();
+      // string input = "bob";
+      // char[] array = input.ToCharArray();
+      // CollectionAssert.AreEqual(array,testPalChecker.Palindro("BOB"));
+      Assert.AreEqual(true,testPalChecker.Palindro("Racecar"));
+    }
   }
 }

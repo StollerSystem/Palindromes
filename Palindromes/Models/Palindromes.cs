@@ -22,11 +22,18 @@ namespace Palindromes
       Array.Reverse(input);
       return input;
     }
-
     public bool CompareArrays(char[] input, char[] input1)
     {      
       input.SequenceEqual(input1);      
       return input.SequenceEqual(input1);
     }
+    public bool Palindro(string input)
+    {
+      char[] array = input.ToLower().ToCharArray();
+      char[] revArray = array;
+      Array.Reverse(revArray);
+      return array.SequenceEqual(revArray);
+    }
   }
+
 }
